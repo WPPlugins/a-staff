@@ -1,0 +1,121 @@
+/* Front End CSS file for the a-staff plugin */
+
+.a-staff-members {
+	margin: 0 -10px 2em;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+}
+
+.a-staff-cols-1 .a-staff-member-box-wrapper {
+	width: 100%;
+}
+
+.a-staff-cols-2 .a-staff-member-box-wrapper {
+	width: 50%;
+}
+
+.a-staff-cols-3 .a-staff-member-box-wrapper {
+	width: 33.3333%;
+}
+
+.a-staff-cols-4 .a-staff-member-box-wrapper {
+	width: 25%;
+}
+
+.a-staff-cols-5 .a-staff-member-box-wrapper {
+	width: 20%;
+}
+
+.a-staff-cols-6 .a-staff-member-box-wrapper {
+	width: 16.6666%;
+}
+
+.a-staff-member-box-wrapper {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	box-sizing: border-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+.a-staff-members .a-staff-member-box {
+	border: 1px solid #ccc;
+	text-align: center;
+	position: relative;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	width: 100%;
+}
+
+.a-staff-member-box > a:first-child {
+	line-height: 0;
+	display: block;
+	overflow: hidden;
+}
+
+.a-staff-members .a-staff-member-box a, .a-staff-members  .a-staff-member-box a {
+	text-decoration: none;
+	box-shadow: none;
+	border-bottom: 0;
+}
+
+.a-staff-members .a-staff-member-box img.a-staff-member-image {
+	margin: 0 auto;
+	width: 100%;
+}
+
+.a-staff-member-title {
+	font-style: italic;
+}
+
+.a-staff-member-box .a-staff-member-bio {
+	margin-bottom: 2em;
+}
+
+.a-staff-member-box .a-staff-member-bio br {
+	margin-bottom: 1em;
+}
+
+.a-staff-members .a-staff-member-box .a-staff-member-social {
+	list-style: none;
+	margin: 0 0 2em 0;
+	padding: 0;
+	width: 100%;
+}
+
+.a-staff-members.a-staff-nophone .a-staff-member-box .a-staff-member-phone {
+	display: none;
+}
+
+.a-staff-members.a-staff-noicons .a-staff-member-box .a-staff-member-social {
+	display: none;
+}
+
+.a-staff-member-box .a-staff-member-social li {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+
+.a-staff-members .a-staff-member-box > p, .a-staff-members .a-staff-member-box > h3 {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.a-staff-members .a-staff-member-box > h3 {
+	margin-top: 1em;
+	padding-top: 0;
+}
+
+.a-staff-member-box .a-staff-member-social, .a-staff-member-box .a-staff-member-phone {
+	margin-top: auto;
+}
+
+.a-staff-members.a-staff-nophone .a-staff-member-box .a-staff-member-social {
+	margin-top: auto;
+}

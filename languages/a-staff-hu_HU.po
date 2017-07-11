@@ -1,0 +1,594 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: a-staff 1.1\n"
+"POT-Creation-Date: 2016-11-14 16:52+0100\n"
+"PO-Revision-Date: 2016-11-14 17:37+0100\n"
+"Last-Translator: \n"
+"Language-Team: a-idea studio <info@a-idea.studio>\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: framework\n"
+
+#: inc/a-staff-cpt.php:12
+msgctxt "Post Type General Name"
+msgid "Staff Members"
+msgstr "Csapattagok"
+
+#: inc/a-staff-cpt.php:13
+msgctxt "Post Type Singular Name"
+msgid "Staff Member"
+msgstr "Csapattag"
+
+#: inc/a-staff-cpt.php:14
+msgid "Staff Members"
+msgstr "Csapattagok"
+
+#: inc/a-staff-cpt.php:15 inc/a-staff-cpt.php:39
+msgid "Staff Member"
+msgstr "Csapattag"
+
+#: inc/a-staff-cpt.php:16
+msgid "Member Archives"
+msgstr "Tag archívum"
+
+#: inc/a-staff-cpt.php:17
+msgid "Parent Member:"
+msgstr "Szülő tag:"
+
+#: inc/a-staff-cpt.php:18
+msgid "All Members"
+msgstr "Minden tag"
+
+#: inc/a-staff-cpt.php:19
+msgid "Add New Member"
+msgstr "Új tag hozzáadása"
+
+#: inc/a-staff-cpt.php:20
+msgid "Add New"
+msgstr "Új hozzáadása"
+
+#: inc/a-staff-cpt.php:21
+msgid "New Member"
+msgstr "Új tag"
+
+#: inc/a-staff-cpt.php:22
+msgid "Edit Member"
+msgstr "Adatlap szerkesztése"
+
+#: inc/a-staff-cpt.php:23
+msgid "Update Member"
+msgstr "Adatlap mentése"
+
+#: inc/a-staff-cpt.php:24
+msgid "View Member"
+msgstr "Tag megtekintése"
+
+#: inc/a-staff-cpt.php:25
+msgid "Search Member"
+msgstr "Tag keresése"
+
+#: inc/a-staff-cpt.php:26
+msgid "Not found"
+msgstr "Nem található"
+
+#: inc/a-staff-cpt.php:27
+msgid "Not found in Trash"
+msgstr "Nem található a Lomtárban"
+
+#: inc/a-staff-cpt.php:28
+msgid "Photo of the Member"
+msgstr "Tag fényképe"
+
+#: inc/a-staff-cpt.php:29
+msgid "Set Member's photo"
+msgstr "Tag fényképének beállítása"
+
+#: inc/a-staff-cpt.php:30
+msgid "Remove Member's photo"
+msgstr "Fénykép eltávolítása"
+
+#: inc/a-staff-cpt.php:31
+msgid "Use as Member's photo"
+msgstr "Használd ezt a tag képeként"
+
+#: inc/a-staff-cpt.php:32
+msgid "Insert into Member's page"
+msgstr "Beillesztés a tag oldalára"
+
+#: inc/a-staff-cpt.php:33
+msgid "Uploaded to this Member's page"
+msgstr "Feltöltve ennek a tagnak az oldalára"
+
+#: inc/a-staff-cpt.php:34
+msgid "Members list"
+msgstr "Tagok listája"
+
+#: inc/a-staff-cpt.php:35
+msgid "Members list navigation"
+msgstr "Navigáció a tagok listájában"
+
+#: inc/a-staff-cpt.php:36
+msgid "Filter Members list"
+msgstr "Taglista szűrése"
+
+#: inc/a-staff-cpt.php:40
+msgid "Staff members of your team"
+msgstr "A csapatod tagjai"
+
+#: inc/a-staff-cpt.php:68
+msgctxt "Taxonomy General Name"
+msgid "Member Titles"
+msgstr "Munkakörök"
+
+#: inc/a-staff-cpt.php:69
+msgctxt "Taxonomy Singular Name"
+msgid "Member Title"
+msgstr "Munkakör"
+
+#: inc/a-staff-cpt.php:70
+msgid "Member Title"
+msgstr "Munkakör"
+
+#: inc/a-staff-cpt.php:71
+msgid "All Titles"
+msgstr "Minden munkakör"
+
+#: inc/a-staff-cpt.php:72
+msgid "Parent Title"
+msgstr "Szülő munkakör"
+
+#: inc/a-staff-cpt.php:73
+msgid "Parent Title:"
+msgstr "Szülő munkakör:"
+
+#: inc/a-staff-cpt.php:74
+msgid "New Member Title"
+msgstr "Új munkakör"
+
+#: inc/a-staff-cpt.php:75
+msgid "Add New Member Title"
+msgstr "Új munkakör hozzáadása"
+
+#: inc/a-staff-cpt.php:76
+msgid "Edit Title"
+msgstr "Munkakör szerkesztése"
+
+#: inc/a-staff-cpt.php:77
+msgid "Update Title"
+msgstr "Munkakör mentése"
+
+#: inc/a-staff-cpt.php:78
+msgid "View Title"
+msgstr "Munkakör megtekintése"
+
+#: inc/a-staff-cpt.php:79
+msgid ""
+"You can add titles like \"CEO\", \"Assistant\", \"Senior Developer\", etc. "
+"here. Separate titles with commas"
+msgstr ""
+"Itt tudsz hozzáadni olyan titulusokat, mint \"CEO\", \"Asszisztens\", "
+"\"Senior Fejlesztő\", stb. A címeket vesszővel válaszd el egymástól"
+
+#: inc/a-staff-cpt.php:80
+msgid "Add or remove Member Titles"
+msgstr "Munkakörök hozzáadása és eltávolítása"
+
+#: inc/a-staff-cpt.php:81
+msgid "Choose from the most used"
+msgstr "Válassz a leggyakrabban használtakból"
+
+#: inc/a-staff-cpt.php:82
+msgid "Popular Titles"
+msgstr "Gyakori munkakörök"
+
+#: inc/a-staff-cpt.php:83
+msgid "Search Member Titles"
+msgstr "Keresés a munkakörök közt"
+
+#: inc/a-staff-cpt.php:84
+msgid "Not Found"
+msgstr "Nem található"
+
+#: inc/a-staff-cpt.php:85
+msgid "No items"
+msgstr "Üres"
+
+#: inc/a-staff-cpt.php:86
+msgid "Titles list"
+msgstr "Munkakörök listája"
+
+#: inc/a-staff-cpt.php:87
+msgid "Titles list navigation"
+msgstr "Navigáció a munkakörök listájában"
+
+#: inc/a-staff-init.php:61
+#, php-format
+msgid ""
+"It looks like the version of Themple Framework (%1$s) you are using in your "
+"current theme is older than the framework version required by the a-staff "
+"plugin (%2$s). Please update your theme to the latest version or contact "
+"your web developer."
+msgstr ""
+"Úgy tűnik, hogy a sablonban található Themple Framework verzió (%1$s) "
+"régebbi, mint az a-staff bővítmény működéséhez szükséges verzió (%2$s). "
+"Frissítsd a sablont a legutóbbi verzióra vagy konzultálj a webfejlesztőddel "
+"ezzel kapcsolatban."
+
+#: inc/a-staff-init.php:127
+msgid "a-staff Default"
+msgstr "a-staff alapeset"
+
+#: inc/a-staff-options.php:12 inc/a-staff-options.php:13
+msgid "a-staff Settings"
+msgstr "a-staff beállítások"
+
+#: inc/a-staff-options.php:45
+msgid "Social"
+msgstr "Közösségi"
+
+#: inc/a-staff-options.php:46
+msgid "Social Networks setup"
+msgstr "Közösségi oldalak beállítása"
+
+#: inc/a-staff-options.php:47
+msgid "Set up the available social networks here for the a-staff plugin"
+msgstr ""
+"Állítsd be itt az a-staff bővítmény által használandó közösségi oldalakat"
+
+#: inc/a-staff-options.php:57
+msgid "Layout"
+msgstr "Megjelenés"
+
+#: inc/a-staff-options.php:58
+msgid "Layout settings"
+msgstr "Megjelenés beállításai"
+
+#: inc/a-staff-options.php:59
+msgid "Settings for the front end layout of this plugin"
+msgstr "A bővítmény megjelenése külső felhasználók számára"
+
+#: inc/a-staff-options.php:69
+msgid "System"
+msgstr "Rendszer"
+
+#: inc/a-staff-options.php:70
+msgid "System settings"
+msgstr "Rendszer-beállítások"
+
+#: inc/a-staff-options.php:71
+msgid "Settings about how the plugin should work under the hood"
+msgstr ""
+"Beállítások azzal kapcsolatban, hogyan működjön a bővítmény a motorháztető "
+"alatt"
+
+#: inc/a-staff-options.php:83
+msgid "Social Network manager"
+msgstr "Közösségi oldal kezelő"
+
+#: inc/a-staff-options.php:84
+msgid ""
+"You can add/remove social networks here that will be available on Staff "
+"Member pages"
+msgstr ""
+"Itt tudod hozzáadni és eltávolítani azokat a közösségi oldalakat, amelyek "
+"megjelennek majd a csapattagok oldalain"
+
+#: inc/a-staff-options.php:88
+msgid "Add Social Network"
+msgstr "Közösségi oldal hozzáadása"
+
+#: inc/a-staff-options.php:92
+msgid "Name of the Social Network"
+msgstr "Közösségi oldal neve"
+
+#: inc/a-staff-options.php:93
+msgid ""
+"This is the public name of the social network, it should be something like "
+"\"Facebook\", \"Twitter\", or similar."
+msgstr ""
+"Ez a publikusan megjelenő neve az oldalnak, pl. \"Facebook\", \"Twitter\", "
+"vagy hasonló."
+
+#: inc/a-staff-options.php:95
+msgid "Enter the name of the network here, e.g. \"Facebook\""
+msgstr "Írd be ide a közösségi oldal nevét, pl. \"Facebook\""
+
+#: inc/a-staff-options.php:99
+msgid "Icon for the Social Network"
+msgstr "Közösségi oldal ikonja"
+
+#: inc/a-staff-options.php:100
+msgid "Choose an icon for the Network"
+msgstr "Válassz egy ikont"
+
+#: inc/a-staff-options.php:105
+msgid "Icon color"
+msgstr "Ikon színe"
+
+#: inc/a-staff-options.php:106
+msgid "Set the color of this icon here."
+msgstr "Válaszd ki az ikon színét itt."
+
+#: inc/a-staff-options.php:128
+msgid "Social link target"
+msgstr "Közösségi link hol nyíljon"
+
+#: inc/a-staff-options.php:129
+msgid "Should it open in a new browser tab or in the same tab?"
+msgstr "Új böngészőfülön, vagy azon a fülön, amelyen épp állunk."
+
+#: inc/a-staff-options.php:133
+msgid "Same tab"
+msgstr "Azonos fül"
+
+#: inc/a-staff-options.php:134
+msgid "New tab"
+msgstr "Új fül"
+
+#: inc/a-staff-options.php:145
+msgid "Social icon size"
+msgstr "Közösségi ikon mérete"
+
+#: inc/a-staff-options.php:146
+#, php-format
+msgid "Size of the icon in %1$sFont Awesome sizes%2$s"
+msgstr "Az ikon mérete %1$sFont Awesome méretekben%2$s meghatározva"
+
+#: inc/a-staff-options.php:151
+msgid "Normal"
+msgstr "Normál"
+
+#: inc/a-staff-options.php:152
+msgid "Larger"
+msgstr "Nagyobb"
+
+#: inc/a-staff-options.php:153
+msgid "Double"
+msgstr "Dupla"
+
+#: inc/a-staff-options.php:154
+msgid "Triple"
+msgstr "Tripla"
+
+#: inc/a-staff-options.php:155
+msgid "4x"
+msgstr "4x"
+
+#: inc/a-staff-options.php:156
+msgid "5x"
+msgstr "5x"
+
+#: inc/a-staff-options.php:167
+msgid "Enable icon colors?"
+msgstr "Ikonszínek használata"
+
+#: inc/a-staff-options.php:168
+msgid ""
+"If enabled, you can specify the color of each social icon separately. "
+"Otherwise they will use the default theme colors."
+msgstr ""
+"Amennyiben engedélyezett, megadhatod a színét mindegyik ikonnak külön-külön. "
+"Másképp a sablon alapszíneit fogják használni."
+
+#: inc/a-staff-options.php:172 inc/a-staff-options.php:189
+#: inc/a-staff-options.php:223 inc/a-staff-options.php:325
+#: inc/a-staff-options.php:342 inc/a-staff-options.php:474
+msgid "Yes"
+msgstr "Igen"
+
+#: inc/a-staff-options.php:173 inc/a-staff-options.php:190
+#: inc/a-staff-options.php:224 inc/a-staff-options.php:326
+#: inc/a-staff-options.php:343 inc/a-staff-options.php:475
+msgid "No"
+msgstr "Nem"
+
+#: inc/a-staff-options.php:184
+msgid "Enable phone numbers?"
+msgstr "Telefonszámok engedélyezése?"
+
+#: inc/a-staff-options.php:185
+msgid "If enabled, you can add phone numbers to the staff member boxes."
+msgstr ""
+"Ha engedélyezve van, akkor hozzá lehet adni telefonszámokat a tagok "
+"dobozaihoz."
+
+#: inc/a-staff-options.php:201
+msgid "Number of columns"
+msgstr "Oszlopok száma"
+
+#: inc/a-staff-options.php:202
+msgid ""
+"The default number of columns to be used when displaying staff members in "
+"the front end. You can override this setting with the shortcode's "
+"<strong>columns</strong> attribute.<br>\n"
+"\t\tIn the current version 1 to 6 columns are supported."
+msgstr ""
+"Az oszlopok száma, amely alapesetben megjelenik a csapattagok oldalán. Ezt a "
+"beállítást felülírhatod lokálisan a shortcode <strong>columns</strong> "
+"attribútumával.<br>\n"
+"\t\tA jelenlegi verzióban 1 - 6 oszlopot lehet beállítani."
+
+#: inc/a-staff-options.php:218
+msgid "Add some formatting to the member bio?"
+msgstr "Alapszintű formázás a tagok leírásánál?"
+
+#: inc/a-staff-options.php:219
+msgid "If eanbled, the new lines will be displayed in the member descriptions."
+msgstr "Ha engedélyezve van, akkor a sortörések megjelennek a tag leírásában."
+
+#: inc/a-staff-options.php:235
+msgid "Length of member bio"
+msgstr "Tag leírás hossza"
+
+#: inc/a-staff-options.php:236
+msgid ""
+"Maximum length of member bio in words. Currently only available if the bio "
+"is formatted."
+msgstr ""
+"Maximális hossz, szavakban meghatározva. Jelenleg csak a formázott "
+"leírásoknál használható."
+
+#: inc/a-staff-options.php:270
+msgid "Image sizes in member boxes"
+msgstr "Képméretek a csapattagok dobozaiban"
+
+#: inc/a-staff-options.php:271
+msgid ""
+"Which image size should we use in the staff member boxes when it's displayed "
+"in the front end? ('c' at the end means that the image is cropped)"
+msgstr ""
+"Mely képméretet használjuk a csapattagok oszlopaiban, amikor megjelenítjük "
+"őket a weboldalon? (a 'c' a végén azt jelenti, hogy vágott képről van szó)"
+
+#: inc/a-staff-options.php:271
+msgid "You can read more about WordPress image sizes here."
+msgstr "Itt olvashatsz többet a WordPress képméretekről."
+
+#: inc/a-staff-options.php:285
+msgid "Box template"
+msgstr "Doboz sablon"
+
+#: inc/a-staff-options.php:286
+msgid ""
+"Template editor for the member boxes. You can use the following shorttags in "
+"it:<br>\n"
+"\t\t\t<b>{MEMBER_NAME}</b> - Name of the Staff Member (the title of the "
+"article)<br>\n"
+"\t\t\t<b>{MEMBER_EXCERPT}</b> - Short bio of Staff Member (the excerpt of "
+"the article)<br>\n"
+"\t\t\t<b>{MEMBER_TITLE}</b> - Title of the Staff Member (Member Title "
+"taxonomy), will be separated by commas if there is more<br>\n"
+"\t\t\t<b>{MEMBER_SOCICONS}</b> - A list of the Staff Member's social "
+"links<br>\n"
+"\t\t\t<b>{MEMBER_URL}</b> - URL to the Staff Member's single page<br>\n"
+"\t\t\t<b>{MEMBER_IMAGE}</b> - URL to the Staff Member's featured image<br>\n"
+"\t\t\t<b>{MEMBER_PHONE}</b> - The Staff Member's phone number (if you "
+"enabled it on the Social tab)\n"
+"\t\t\t"
+msgstr ""
+"Sablonszerkesztő a csapattagok dobozaihoz. A következő változókat "
+"használhatod a sabloban:<br>\n"
+"\t\t\t<b>{MEMBER_NAME}</b> - A tag neve (a szerkesztőben a cikk címe)<br>\n"
+"\t\t\t<b>{MEMBER_EXCERPT}</b> - Rövid leírás a tagról (a cikk kivonata)<br>\n"
+"\t\t\t<b>{MEMBER_TITLE}</b> - A tag munkaköre (Munkakör taxonómia), "
+"vesszőkkel elválasztva ha több is van<br>\n"
+"\t\t\t<b>{MEMBER_SOCICONS}</b> - A tag közösségi linkjei<br>\n"
+"\t\t\t<b>{MEMBER_URL}</b> - A tag egyedi oldalára mutató URL<br>\n"
+"\t\t\t<b>{MEMBER_IMAGE}</b> - A tag fényképére mutató URL\n"
+"\t\t\t<b>{MEMBER_PHONE}</b> - A tag telefonszáma (ha engedélyezve van a "
+"Közösségi fülön)\n"
+"\t\t\t"
+
+#: inc/a-staff-options.php:319
+msgid "Load basic front end CSS?"
+msgstr "Alap stílusok beolvasása?"
+
+#: inc/a-staff-options.php:320
+msgid ""
+"If Yes is selected, a small CSS file will be loaded in the front end in "
+"order to give some shape for the Staff Member boxes.<br>\n"
+"\t\tSelect No if you have your own style rules for a-staff boxes in your "
+"theme's stylesheets (recommended only for experts)."
+msgstr ""
+"Ha Igen, akkor egy kis CSS fájl fog betöltődni a weboldalon annak érdekében, "
+"hogy némi formát adjon a csapattag-dobozoknak.<br>\n"
+"\t\tA Nem-et akkor válaszd, ha a weboldal-sablonod rendelkezik a megfelelő "
+"stíluslapokkal az a-staff dobozok megjelenítéséhez (csak szakértőknek "
+"ajánlott)."
+
+#: inc/a-staff-options.php:337
+msgid "Responsive behavior"
+msgstr "Reszponzivitás"
+
+#: inc/a-staff-options.php:338
+msgid ""
+"Should the built-in styles support responsive behavior? \"No\" is only "
+"recommended for non-responsive themes."
+msgstr ""
+"A beépített stíluslapok legyenek reszponzívek? A \"Nem\" csak nem-reszponzív "
+"weboldalak esetén ajánlott."
+
+#: inc/a-staff-options.php:362
+msgid "Responsive breakpoints"
+msgstr "Reszponzív ütközőpontok"
+
+#: inc/a-staff-options.php:363
+msgid ""
+"You can fine-tune here the behavior of the team member columns for smaller "
+"screens."
+msgstr ""
+"Itt finomhangolhatod a csapattag-dobozokat tartalmazó oszlopok viselkedését "
+"kisebb képernyőkön."
+
+#: inc/a-staff-options.php:369
+msgid "Breakpoint #1 (5-6 → 3)"
+msgstr "Ütközőpont #1 (5-6 → 3)"
+
+#: inc/a-staff-options.php:370
+msgid ""
+"Under this window width the 5 and 6 column layouts change to 3-column layout"
+msgstr ""
+"Ezen képernyő-szélesség alatt az 5 és 6 oszlopos kinézet 3 oszloposra vált"
+
+#: inc/a-staff-options.php:377
+msgid "Breakpoint #2 (3-6 → 2)"
+msgstr "Ütközőpont #2 (3-6 → 2)"
+
+#: inc/a-staff-options.php:378
+msgid ""
+"Under this window width the 3, 4, 5 and 6 column layouts change to 2-column "
+"layout"
+msgstr ""
+"Ezen képernyő-szélesség alatt a 3, 4, 5 és 6 oszlopos kinézet 2 oszloposra "
+"vált"
+
+#: inc/a-staff-options.php:385
+msgid "Breakpoint #3 (2-6 → 1)"
+msgstr "Ütközőpont #3 (2-6 → 1)"
+
+#: inc/a-staff-options.php:386
+msgid ""
+"Under this window width all the multi-column layouts change to 1-column "
+"layout"
+msgstr ""
+"Ezen képernyő-szélesség alatt minden többoszlopos kinézet 1 oszloposra vált"
+
+#: inc/a-staff-options.php:420
+msgid "Staff Member's social profiles"
+msgstr "A csapattag közösségi profiljai"
+
+#: inc/a-staff-options.php:421
+msgid ""
+"Enter the URLs for the social links here. If left empty, it won't appear in "
+"the front end."
+msgstr ""
+"Írd be az URL-eket a közösségi linkekhez itt. Az üresen hagyott URL-ek nem "
+"fognak megjelenni."
+
+#: inc/a-staff-options.php:436
+msgid "URL starting with http://, https://, mailto:, etc."
+msgstr "URL http://, https://, mailto:, stb. kezdettel."
+
+#: inc/a-staff-options.php:454
+msgid "Member's phone number"
+msgstr "A tag telefonszáma"
+
+#: inc/a-staff-options.php:469
+msgid "Delete data on plugin uninstall?"
+msgstr "Adatok törlése a bővítmény eltávolításakor?"
+
+#: inc/a-staff-options.php:470
+msgid ""
+"If yes, all data will be removed when you delete the a-staff plugin. "
+"Otherwise the data added by the plugin will be kept in the database."
+msgstr ""
+"Ha Igen, akkor minden adat törlődni fog amikor az a-staff bővítményt "
+"eltávolítjuk. Egyébként az adatok benne maradnak az adatbázisban."
